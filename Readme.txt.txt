@@ -1,0 +1,1 @@
+the project describes about the git interface between users
